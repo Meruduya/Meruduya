@@ -4,27 +4,11 @@
 
 Начинающий QA-инженер с завершённым обучением в Нетологии.
 
-**Testing:**
-- Manual Testing
-- UI Testing
-- API Testing
-- Test Design
-- Test Cases & Checklists
-- Bug Reporting
-- Performance Testing
+**Testing:** Manual Testing, UI Testing, API Testing, Test Design, Test Cases, Checklists, Bug Reporting, Performance Testing
 
-**Automation:**
-- Java
-- JUnit
-- Maven
-- Espresso
-- Appium
+**Automation:** Java, JUnit, Maven, Espresso, Appium
 
-**Tools:**
-- Postman
-- Git / GitHub
-- Docker
-- JMeter
+**Tools:** Postman, Git / GitHub, Docker, JMeter
 
 📍 Анапа, Россия  
 💼 Открыта к удалённой работе
