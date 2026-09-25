@@ -1,19 +1,28 @@
 # Вероника Литвиненко
 
-### Junior QA Engineer | Manual & Automation Testing
+### **Junior QA Engineer | Manual & Automation Testing**
 
-Начинающий QA-инженер с завершённым обучением в Нетологии.
+Начинающий **QA-инженер** с завершённым обучением в Нетологии.
 
-**Testing:** Manual Testing, UI Testing, API Testing, Test Design, Test Cases, Checklists, Bug Reporting, Performance Testing
+---
 
-**Automation:** Java, JUnit, Maven, Espresso, Appium
+**Testing:**  
+Manual Testing · UI Testing · API Testing · Test Design · Test Cases · Checklists · Bug Reporting · Performance Testing
 
-**Tools:** Postman, Git / GitHub, Docker, JMeter
+**Automation:**  
+Java · JUnit · Maven · Espresso · Appium
 
-📍 Анапа, Россия  
-💼 Открыта к удалённой работе
+**Tools:**  
+Postman · Git / GitHub · Docker · JMeter
 
-### Contacts
+---
 
-📧 [veronika.liitvinenko@gmail.com](mailto:veronika.liitvinenko@gmail.com)  
-💬 [Telegram](https://t.me/Veronika_Litvinenko)
+📍 *Анапа, Россия*  
+💼 **Открыта к удалённой работе**
+
+---
+
+### **Contacts**
+
+📧 [*veronika.liitvinenko@gmail.com*](mailto:veronika.liitvinenko@gmail.com)  
+💬 [***Telegram***](https://t.me/Veronika_Litvinenko)
