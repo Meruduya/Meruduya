@@ -12,3 +12,8 @@
 
 📍 Анапа, Россия  
 💼 Открыта к удалённой работе
+
+### Contacts
+
+📧 [veronika.liitvinenko@gmail.com](mailto:veronika.liitvinenko@gmail.com)  
+💬 [Telegram](https://t.me/Veronika_Litvinenko)
