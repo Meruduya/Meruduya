@@ -1,16 +1,30 @@
-## Hi there 👋
+# Вероника Литвиненко
 
-<!--
-**Meruduya/Meruduya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior QA Engineer | Manual & Automation Testing
 
-Here are some ideas to get you started:
+Начинающий QA-инженер с завершённым обучением в Нетологии.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Testing:**
+- Manual Testing
+- UI Testing
+- API Testing
+- Test Design
+- Test Cases & Checklists
+- Bug Reporting
+- Performance Testing
+
+**Automation:**
+- Java
+- JUnit
+- Maven
+- Espresso
+- Appium
+
+**Tools:**
+- Postman
+- Git / GitHub
+- Docker
+- JMeter
+
+📍 Анапа, Россия  
+💼 Открыта к удалённой работе
