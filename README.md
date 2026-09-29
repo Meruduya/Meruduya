@@ -24,8 +24,8 @@ Postman · Git / GitHub · GitHub Actions · Docker · JMeter · MySQL
 
 ### **Contacts**
 
-📧 [*veronika.liitvinenko@gmail.com*](mailto:veronika.liitvinenko@gmail.com)  
-💬 [***Telegram***](https://t.me/Veronika_Litvinenko)
+📧 [ ### *veronika.liitvinenko@gmail.com*](mailto:veronika.liitvinenko@gmail.com)  
+💬 [ ### ***Telegram***](https://t.me/Veronika_Litvinenko)
 
 ---
 ---
